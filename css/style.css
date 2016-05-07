@@ -23,32 +23,6 @@ html, body {
 	width: 80%;
 }
 
-ul
-{
-    list-style-type: none;
-}
-
-li {
-	height: 35px;
-	color: white;
-	background-color: black;
-	text-align: center;
-	padding-top: 7.5px;
-}
-
-li:hover {
-	color: black;
-	background-color: white;
-}
-
-ul:first-child {
-	padding-top: 0px;
-}
-
-img {
-	width: 600px;
-	height: 550px;
-}
 
 #map {
         height: 100%;
